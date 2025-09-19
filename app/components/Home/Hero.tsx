@@ -141,15 +141,15 @@ const Hero = () => {
         <ProcessWidget />
         {/* Area we Serve */}
         <div className="mx-auto mt-14 max-w-[95rem] md:mt-20">
-          <div className="mt-10 flex h-96 rounded-xl  bg-minor  shadow-2xl md:mb-10">
-            <div className="md:w-[87%]">
+          <div className="mt-10 flex h-96 rounded-xl  bg-minor  shadow-2xl lg:mb-10">
+            <div className="lg:w-[87%]">
               <h2 className="mt-4 p-1 text-center text-2xl font-bold text-white">
                 We Proudly Serve{" "}
                 <span className="text-main">The Following Areas</span>
               </h2>
               <AreaWeServe slugs={slugs} />
             </div>
-            <div className="hidden h-full w-full md:flex">
+            <div className="hidden h-full w-full lg:flex">
               <HourCta />
             </div>
           </div>

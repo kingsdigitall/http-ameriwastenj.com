@@ -2,7 +2,7 @@
   "metaTitle": "Dumpster Rentals in Connecticut | Hassle-Free Local Service",
   "metaDescription": "Need a dumpster in Connecticut? Call us at (203) 568-2409. Fast delivery, fair pricing, and friendly support for homes, businesses, and job sites.",
   "bannerQuote": "",
-  "bannerImage": "banner.jpg",
+  "bannerImage": "https://ik.imagekit.io/serviceproviders/ameriwastenj.com/banner.jpg",
   "h1Banner": "Your Local Dumpster Rental Experts in Connecticut",
   "p1Banner": "",
   "h2": "Let’s Make Cleanup Simple",
@@ -43,10 +43,203 @@
       }
     ]
   },
+  "affordableWidget": {
+    "title": "A Better Way to Rent Dumpsters",
+    "description": "We've taken the hassle out of dumpster rental in Connecticut. Here's how we make it easy, clear, and convenient for you:",
+    "ctaText": "Call Now",
+    "cards": [
+      {
+        "title": "Simple Booking Process",
+        "description": "No long forms. No runaround. One quick call and we'll get you scheduled in minutes."
+      },
+      {
+        "title": "Licensed Waste Disposal",
+        "description": "We follow Connecticut state regulations and local guidelines to ensure all your waste is handled responsibly."
+      }, 
+      {
+        "title": "Reliable Customer Support",
+        "description": "From first inquiry to final pickup, our local Connecticut team is ready to answer your questions and help you out."
+      }
+    ]
+  },
+  "processWidget": {
+    "title": "Our Process: How It Works",
+    "description": "",
+    "steps": [
+      {
+        "title": "Step 1: Tell Us About Your Project",
+        "description": "Give us a quick rundown—what kind of junk you’re tossing, how much space you’ll need, and how long you’ll need the bin. We’ll help you choose the right size."
+      },
+      {
+        "title": "Step 2: Schedule Your Dumpster Delivery",
+        "description": " Pick a day and time that works for you. We’ll confirm delivery and provide guidance on best placement and access."
+      },
+      {
+        "title": "Step 3: Fill It Up at Your Pace",
+        "description": "We don’t rush you. Load the dumpster as your project progresses, and if you need more time or a second bin, we’re a call away."
+      },
+      {
+        "title": "Step 4: We Pick It Up & Haul It Away",
+        "description": "Done? Let us know, and we’ll swing by to remove the dumpster quickly and leave your site clean and clear. Easy as that."
+      }
+    ]
+  },
+  "hourCtaWidget": {
+    "title": "Get Your Free Quote Today "
+  },
   "h3": "About Connecticut Dumpster Rental Pros",
   "p3": "We’re a small team doing big things—right here in Connecticut. We started this business over 10 years ago with one simple goal: make dumpster rental less of a headache. Now, we serve homeowners, business owners, and contractors across the state with fast, honest, and local service.<br/><br/>We understand the importance of showing up on time, offering flexible rentals, and providing clear answers. Every member of our team is trained to help you choose the right dumpster for your job and make sure delivery and pickup happen without delay. From one-day events to long-term projects, we’re here to help you get the job done without stress.",
   "h3Image": "https://ik.imagekit.io/serviceproviders/ameriwastenj.com/young-tramp-rummaging-in-trash-container-looking.jpg?updatedAt=1744193602094",
-  "faq": [],
-  "testimonials": [],
+  "faq": [
+    {
+      "FAQ": "What dumpster sizes do you offer in [location]?",
+      "Answer": "We offer a variety of dumpster sizes in [location], including 10-yard, 15-yard, 20-yard, 30-yard, and 40-yard containers to fit everything from small cleanups to large construction projects."
+    },
+    {
+      "FAQ": "Do I need a permit to place a dumpster on the street in [location]?",
+      "Answer": "Yes, in most cases. If you're placing the dumpster on public property like a street or sidewalk in [location], you may need a city permit. We can guide you through the process."
+    },
+    {
+      "FAQ": "How soon can I get a dumpster delivered?",
+      "Answer": "We offer same-day or next-day dumpster delivery in [location], depending on availability. Booking early helps us lock in your preferred time slot."
+    },
+    {
+      "FAQ": "Are there weight limits for dumpsters?",
+      "Answer": "Yes, each dumpster has a specific weight limit based on its size. We’ll explain the limit during booking to help you avoid overage charges. Need help estimating? We’ve got your back."
+    },
+    {
+      "FAQ": "Can I rent dumpsters for commercial projects in [location]?",
+      "Answer": "Absolutely. We serve both residential and commercial clients. Whether you're renovating a restaurant, running a job site, or clearing a property — we've got the right dumpster for the job."
+    },
+    {
+      "FAQ": "What happens if I overload the dumpster?",
+      "Answer": "Overloading the dumpster can result in additional fees and may delay pickup. Always keep debris below the rim and follow the weight guidelines we provide."
+    },
+    {
+      "FAQ": "How do I know which dumpster size is right for me in [location]?",
+      "Answer": "It depends on your project type and volume. If you're unsure, our team in [location] will help you choose the ideal dumpster size based on your needs."
+    },
+    {
+      "FAQ": "Can I place a dumpster on my driveway or lawn in [location]?",
+      "Answer": "Yes, most driveways and lawns can support a dumpster. For soft ground, we recommend plywood underneath to prevent damage. Ask us for placement tips!"
+    },
+    {
+      "FAQ": "Are there extra fees for certain types of debris in [location]?",
+      "Answer": "Yes, some materials like mattresses, tires, or appliances may carry a surcharge. We’ll provide a full list of restrictions and fees before your rental in [location]."
+    },
+    {
+      "FAQ": "How far in advance should I book a dumpster in [location]?",
+      "Answer": "We recommend booking at least 24–48 hours in advance in [location], especially during peak seasons. Same-day service may be available based on inventory."
+    },
+    {
+      "FAQ": "Do I need to be home for dumpster delivery or pickup in [location]?",
+      "Answer": "Nope! As long as we have clear instructions and access, we can drop off or pick up your dumpster in [location] without you being there."
+    },
+    {
+      "FAQ": "Is weekend dumpster rental available in [location]?",
+      "Answer": "Absolutely. We offer flexible weekend scheduling in [location], including Friday drop-offs and Monday pickups. Great for DIY weekend projects!"
+    },
+    {
+      "FAQ": "What items are prohibited in the dumpster in [location]?",
+      "Answer": "Items like paint, chemicals, batteries, and propane tanks are restricted. We follow [location] and state disposal regulations. Call us for a full do-not-load list."
+    },
+    {
+      "FAQ": "How long can I keep the dumpster in [location]?",
+      "Answer": "Our standard rental period is 7 days in [location], but we offer flexible extensions if you need more time. Just let us know in advance."
+    },
+    {
+      "FAQ": "Can I move the dumpster once it's been placed?",
+      "Answer": "We strongly advise against it. Dumpsters are heavy and can damage surfaces. If you need to reposition it in [location], contact us—we’ll help out safely."
+    }
+  ],
+  "reviews": [
+    {
+      "Review": "When my garage cleanout turned into a full-scale purge, their residential dumpster rental in [location] was a total lifesaver. Quick drop-off, no fuss."
+    },
+    {
+      "Review": "We hosted a big fundraiser in [location], and the event cleanup dumpster helped us wrap everything up fast. No overflowing trash bags this year!"
+    },
+    {
+      "Review": "After the storm hit [location], we needed fast help with debris removal. Their storm cleanup dumpster arrived within hours. Huge relief for our family."
+    },
+    {
+      "Review": "Demo day for our kitchen reno in [location] went smoother than expected thanks to their roll-off dumpster. Fit perfectly in our tight driveway."
+    },
+    {
+      "Review": "Tried hauling yard waste to the dump-gave up halfway. Ordered their yard waste dumpster in [location] and cleared it all in a day. Worth it."
+    },
+    {
+      "Review": "I'm a general contractor in [location] and use their construction dumpsters on every project. Clean units, no delays, and fair rates. Just what I need."
+    },
+    {
+      "Review": "Moved offices in [location] and had piles of old furniture and paperwork. Their commercial dumpster rental handled it all. Made moving way easier."
+    },
+    {
+      "Review": "Needed a concrete dumpster for a driveway demo in [location]. They explained the weight limits clearly and saved me from surprise fees. Respect."
+    },
+    {
+      "Review": "Our HOA did a spring cleanup in [location] and their temporary dumpster service made it seamless. Everyone chipped in, and the street looked brand new."
+    },
+    {
+      "Review": "Had a leaking roof in [location] and had to strip it fast. Their roofing dumpster was dropped off same-day. Can't recommend them enough."
+    },
+    {
+      "Review": "I was overwhelmed after downsizing in [location]. The residential dumpster took all my stress with it. No hidden charges, no drama, just easy service."
+    },
+    {
+      "Review": "Cleaned out my late dad's shed in [location]. Their roll-off dumpster made it so much less emotional. Toss, move on. Grateful for the smooth process."
+    },
+    {
+      "Review": "Ripped out a busted old patio in [location] and filled a whole dumpster with bricks. Their concrete dumpster held up like a champ."
+    },
+    {
+      "Review": "For our small restaurant remodel in [location], we used their commercial dumpster rental. They worked around our hours and minimized the disruption."
+    },
+    {
+      "Review": "I'm a landscaper in [location], and their yard waste dumpsters help me wrap up jobs clean and fast. My clients notice the difference too."
+    },
+    {
+      "Review": "Planning a festival in [location] is chaos, but their event dumpster service was one thing I didn't have to stress about. Clean, on-time, and big enough."
+    },
+    {
+      "Review": "Our apartment building in [location] needed a large-scale junk haul. The roll-off dumpster handled furniture, boxes, you name it. Saved us days of work."
+    },
+    {
+      "Review": "We renovated our bathroom in [location] and underestimated the mess. The residential dumpster came just in time. Best decision of the project."
+    },
+    {
+      "Review": "A surprise inspection at our site in [location] meant we needed a dumpster ASAP. They delivered that same morning. Total pros."
+    },
+    {
+      "Review": "After a tree fell in our yard in [location], we had no idea how to deal with it. Their yard dumpster made cleanup manageable in hours."
+    },
+    {
+      "Review": "Weekend DIY cleanup got out of hand. Called for a temporary dumpster in [location] and had it delivered in 2 hours. Never going back to truckloads."
+    },
+    {
+      "Review": "Our nonprofit hosts food drives in [location] and cleanup used to be a nightmare. Their event dumpster changed the game. Clean finish every time."
+    },
+    {
+      "Review": "I flip houses in [location], and their construction dumpsters are my secret weapon. Reliable, fast, and no nonsense every time I need one."
+    },
+    {
+      "Review": "Switched to their commercial dumpster service in [location] for our office complex. Fewer issues, better pickups, and real people on the phone. Love it."
+    },
+    {
+      "Review": "Had to clear out my mom's home in [location] before it sold. The residential dumpster rental helped me move on emotionally and physically."
+    },
+    {
+      "Review": "We tore off our old roof in [location] and used their roofing dumpster. The bin handled everything with zero mess. Pickup was super fast too."
+    },
+    {
+      "Review": "Post-flood cleanup in [location] was overwhelming. Their storm dumpster helped us sort, toss, and start fresh. One of the few bright spots in that mess."
+    },
+    {
+      "Review": "Tried a different company before and regretted it. Switched to this team in [location] for roll-off dumpster rental-night and day experience."
+    },
+    {
+      "Review": "Contract fell through last-minute and left us with junk in [location]. Their temporary dumpster saved the day. Cleared it all in 24 hours flat."
+    }
+  ],
   "mapLink": "https://maps.google.com/maps?q=Connecticut&t=&z=10&ie=UTF8&iwloc=&output=embed"
 }

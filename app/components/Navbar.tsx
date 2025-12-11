@@ -30,7 +30,7 @@ const Navbar = () => {
               <Link href={`${ContactInfo?.baseUrl}`} aria-label="Home">
                 <Image
                   src={ContactInfo?.logoImage}
-                  className=" h-full w-40 object-contain md:mr-3 "
+                  className=" h-full w-40 object-contain md:mr-3 md:w-56 "
                   alt="logo of the company"
                   title=""
                   loading="lazy"

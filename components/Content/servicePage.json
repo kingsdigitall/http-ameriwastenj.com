@@ -1,92 +1,92 @@
 {
-      "metaTitle": "Dumpster Rentals Services Near You",
-      "metaDescription": "Fast, affordable dumpster rental services for cleanouts, projects & jobsites. Call us at (203) 568-2409 and clear your clutter with zero hassle.",
-      "bannerQuote": "",
-      "bannerImage": "https://ik.imagekit.io/serviceproviders/ameriwastenj.com/banner.jpg",
-      "h1Banner": "Dumpster Rentals Services That Deliver — Literally & On Time",
-      "p1Banner": "",
-      "serviceTitle": "",
-      "serviceData": {
-            "title": "Services We Provide",
-            "p": "At AmeriWaste, we make waste removal simple and dependable for homes, businesses, and job sites across [location]. From heavy-duty construction bins to quick residential dumpsters, every rental comes with transparent pricing, fast delivery, and stress-free pickup. Explore our full list of dumpster services below and find the right fit for your cleanup project.",
-            "lists": [
-                  {
-                        "title": "Residential Dumpster Rental in [location]",
-                        "description": "Call us at (203) 568-2409. Perfect for home cleanouts, remodeling, and decluttering in [location]. Fast delivery, easy pickup. Book your residential dumpster today!",
-                        "h2": "Clear Your Home the Easy Way with Residential Dumpster Rentals in [location]",
-                        "p2": "Planning a home renovation, decluttering project, or moving day? Our residential dumpster rentals in [location] make junk removal easy and stress-free. Whether you’re cleaning out your garage, attic, or an entire home, we’ve got multiple dumpster sizes to fit your space and waste volume. Our team handles fast drop-off and pickup, giving you more time to focus on your project. With transparent pricing and no hidden fees, we’re the reliable choice for homeowners across [location]. Book now and take the heavy lifting out of your cleanup.",
-                        "h3": "Fast Delivery, Fair Pricing",
-                        "p3": "We drop off where you need it and pick up when you’re done—no delays, no surprises, just clean and simple service for your home project.",
-                        "seoContent": "<h2>Residential Dumpster Rental in [location]</h2><p>Rent residential dumpsters in [location] for home projects, renovations, or moving cleanouts. Fast delivery and pickup. Call (203) 568-2409 today.</p>",
-                        "slug": "residential-dumpster-rental",
-                        "imageUrl": "https://ik.imagekit.io/serviceproviders/ameriwastenj.com/residential-dumpster.jpg?updatedAt=1744193595657"
-                  },
-                  {
-                        "title": "Commercial Dumpster Rental in [location]",
-                        "description": "Call us at (203) 568-2409. Reliable dumpsters for offices, retail, and business cleanouts in [location]. Hassle-free and flexible. Schedule your dumpster now!",
-                        "h2": "Keep Business Clean and Compliant with Commercial Dumpster Rentals in [location]",
-                        "p2": "Running a business means dealing with waste—and we make sure that’s one thing you don’t have to worry about. Our commercial dumpster rentals in [location] are perfect for offices, retail stores, restaurants, and industrial properties. From regular waste pickup to large one-time cleanouts, we tailor dumpster solutions around your business needs. We deliver on time, pick up when you’re ready, and keep your operation compliant with local waste guidelines. Don’t let trash pile up—rent a commercial dumpster in [location] and keep things running smoothly.",
-                        "h3": "Waste Solutions That Fit Your Workflow",
-                        "p3": "Our team coordinates pickups around your hours to keep your business clean, compliant, and clutter-free every day.",
-                        "seoContent": "<h2>Commercial Dumpster Rental in [location]</h2><p>Commercial dumpster rentals in [location] for offices, restaurants, and retail stores. Reliable service. Call (203) 568-2409 to book.</p>",
-                        "slug": "commercial-dumpster-rental",
-                        "imageUrl": "https://ik.imagekit.io/serviceproviders/ameriwastenj.com/dumpsters-being-full-with-garbage-in-a-city-dumps.jpg?updatedAt=1744193615262"
-                  },
-                  {
-                        "title": "Construction Dumpster Rental in [location]",
-                        "description": "Call us at (203) 568-2409. Built for heavy-duty construction waste in [location]. Ideal for job sites and contractors. Rent your construction dumpster today!",
-                        "h2": "Built for Heavy Loads: Construction Dumpster Rentals in [location]",
-                        "p2": "Construction sites generate serious debris. Our construction dumpster rentals in [location] are built tough for the job. Ideal for contractors, remodelers, and builders, these dumpsters handle drywall, lumber, roofing materials, and more. We understand job site urgency, which is why we prioritize same-day delivery and pickup options in [location]. We’ll help you choose the right size to avoid overloads and keep your project on track. Book today and get the heavy-duty support your construction crew needs, without delays or mess.",
-                        "h3": "Built Strong for Every Jobsite",
-                        "p3": "Our containers are reinforced for concrete, lumber, and roofing waste—keeping your project clean and OSHA-compliant.",
-                        "seoContent": "<h2>Construction Dumpster Rental in [location]</h2><p>Heavy-duty construction dumpsters in [location] for contractors and remodelers. Fast delivery. Call (203) 568-2409 to reserve.</p>",
-                        "slug": "construction-dumpster-rental",
-                        "imageUrl": "https://ik.imagekit.io/serviceproviders/ameriwastenj.com/heap-on-metal-big-overloaded.jpeg?updatedAt=1744193591101"
-                  },
-                  {
-                        "title": "Roll-Off Dumpster Rental in [location]",
-                        "description": "Call us at (203) 568-2409. Versatile and easy-to-load dumpsters for big cleanups in [location]. Great for any project. Reserve your roll-off container today!",
-                        "h2": "Roll-Off Dumpster Rentals in [location] for Fast and Flexible Cleanup",
-                        "p2": "Our roll-off dumpster rentals in [location] are perfect for large residential, commercial, or construction projects. With open-top access and ground-level loading, these containers make tossing debris quick and painless. Choose from various sizes based on your job’s scope, and enjoy fast, contactless drop-off and pickup. Whether you’re flipping a house, clearing a commercial lot, or managing a multi-day event, our roll-off dumpsters are the flexible waste solution you’ve been searching for. Reserve yours now and simplify the entire cleanup process in [location].",
-                        "h3": "Easy Loading, Effortless Cleanup",
-                        "p3": "From small remodels to major builds, our roll-offs provide convenience, capacity, and quick turnaround service every time.",
-                        "seoContent": "<h2>Roll-Off Dumpster Rental in [location]</h2><p>Roll-off dumpsters in [location] for cleanouts and renovations. Multiple sizes, quick drop-off. Call (203) 568-2409 now.</p>",
-                        "slug": "roll-off-dumpster-rental",
-                        "imageUrl": "https://ik.imagekit.io/serviceproviders/ameriwastenj.com/two-blue-overfilled-waste-bins.jpeg?updatedAt=1744193605438"
-                  },
-                  {
-                        "title": "Yard Waste Dumpster Rental in [location]",
-                        "description": "Call us at (203) 568-2409. Cleaning up the yard? Our yard waste dumpsters in [location] are great for branches, grass, and soil. Book a bin and clear the mess!",
-                        "h2": "Tackle Landscaping Waste with Yard Dumpster Rentals in [location]",
-                        "p2": "Yard work is hard enough without worrying about where to dump all that debris. Our yard waste dumpster rentals in [location] are designed to handle leaves, branches, sod, and brush with ease. Whether you're redoing your landscaping or cleaning up after a storm, we provide the right dumpster to handle it all. We deliver to your curb or property, and pick it up once you’re done. Skip the trips to the dump and focus on your project. Book your yard waste dumpster in [location] and take back your weekend.",
-                        "h3": "Green Waste, Gone Fast",
-                        "p3": "Perfect for landscapers and homeowners—dispose of natural debris easily without endless dump runs.",
-                        "seoContent": "<h2>Yard Waste Dumpster Rental in [location]</h2><p>Rent yard dumpsters in [location] for grass, branches, and soil. Easy delivery. Call (203) 568-2409 to schedule.</p>",
-                        "slug": "yard-waste-dumpster-rental",
-                        "imageUrl": "https://ik.imagekit.io/serviceproviders/ameriwastenj.com/loaded-dumpster-near-construction.jpeg?updatedAt=1744193602137"
-                  },
-                  {
-                        "title": "Concrete Dumpster Rental in [location]",
-                        "description": "Call us at (203) 568-2409. Get a heavy-duty dumpster for concrete, bricks, and rubble in [location]. No overload worries. Rent your concrete bin today!",
-                        "h2": "Heavy Debris? Our Concrete Dumpster Rentals in [location] Have You Covered",
-                        "p2": "Heavy materials like concrete, asphalt, bricks, and dirt require special dumpsters—and we’ve got you covered. Our concrete dumpster rentals in [location] are made for tough loads and strict weight guidelines, ensuring safe and legal disposal. Ideal for driveway removal, patio demolition, or construction cleanup, these containers are built to handle the weight. We’ll help you avoid overage fees and coordinate timely drop-off and pickup to match your workflow. Rent a concrete dumpster today and clear out heavy debris without breaking your back—or your budget.",
-                        "h3": "Strong Enough for the Heaviest Jobs",
-                        "p3": "Our reinforced concrete dumpsters handle dense debris safely, helping you stay efficient and compliant on-site.",
-                        "seoContent": "<h2>Concrete Dumpster Rental in [location]</h2><p>Concrete dumpster rentals in [location] for heavy debris and demolition waste. Call (203) 568-2409 for a free quote.</p>",
-                        "slug": "concrete-dumpster-rental",
-                        "imageUrl": "https://ik.imagekit.io/serviceproviders/ameriwastenj.com/loaded-dumpster-near-a-construction-site.webp?updatedAt=1744193614050"
-                  },
-                  {
-                        "title": "Hazardous Waste Dumpster Rental in [location]",
-                        "description": "Call us at (203) 568-2409. Safe and compliant disposal for hazardous waste in [location]. For regulated materials only. Call to discuss your disposal needs today!",
-                        "h2": "Safe Disposal Starts Here: Hazardous Waste Dumpster Rentals in [location]",
-                        "p2": "Disposing of hazardous materials isn’t just risky—it’s regulated. Our hazardous waste dumpster rentals in [location] are designed for safe, compliant removal of items like paint, chemicals, batteries, and certain electronics. We work closely with local and federal guidelines to ensure your materials are handled responsibly and legally. Ideal for industrial sites, cleanouts, or specialty waste disposal, our team provides guidance every step of the way. Call today to schedule a hazardous waste dumpster in [location] and let us help you handle the tough stuff safely.",
-                        "h3": "Safe, Certified, and Responsible",
-                        "p3": "Our team follows all EPA and local rules for hazardous waste disposal—keeping your project compliant and the environment protected.",
-                        "seoContent": "<h2>Hazardous Waste Dumpster Rental in [location]</h2><p>Hazardous waste dumpsters in [location] for chemicals, paint, and regulated materials. Safe disposal. Call (203) 568-2409 now.</p>",
-                        "slug": "hazardous-waste-dumpster-rental",
-                        "imageUrl": "https://ik.imagekit.io/serviceproviders/ameriwastenj.com/nursing-assistant-disposing-of-products-in-sanitar.webp?updatedAt=1744193605033"
-                  }
-            ]
+  "metaTitle": "Dumpster Rentals Services Near You",
+  "metaDescription": "Fast, affordable dumpster rental services for cleanouts, projects & jobsites. Call us at (203) 568-2409 and clear your clutter with zero hassle.",
+  "bannerQuote": "",
+  "bannerImage": "https://ik.imagekit.io/serviceproviders/ameriwastenj.com/banner.jpg",
+  "h1Banner": "Dumpster Rentals Services Near You",
+  "p1Banner": "Fast, affordable dumpster rental services for cleanouts, projects & jobsites. Call us at (203) 568-2409 and clear your clutter with zero hassle.",
+  "serviceTitle": "",
+  "serviceData": {
+    "title": "Services We Provide",
+    "p": "At AmeriWaste, we make waste removal simple and dependable for homes, businesses, and job sites across [location]. From heavy-duty construction bins to quick residential dumpsters, every rental comes with transparent pricing, fast delivery, and stress-free pickup. Explore our full list of dumpster services below and find the right fit for your cleanup project.",
+    "lists": [
+      {
+        "title": "Residential Dumpster Rental in [location]",
+        "description": "Call us at (203) 568-2409. Perfect for home cleanouts, remodeling, and decluttering in [location]. Fast delivery, easy pickup. Book your residential dumpster today!",
+        "h2": "Clear Your Home the Easy Way with Residential Dumpster Rentals in [location]",
+        "p2": "Planning a home renovation, decluttering project, or moving day? Our residential dumpster rentals in [location] make junk removal easy and stress-free. Whether you’re cleaning out your garage, attic, or an entire home, we’ve got multiple dumpster sizes to fit your space and waste volume. Our team handles fast drop-off and pickup, giving you more time to focus on your project. With transparent pricing and no hidden fees, we’re the reliable choice for homeowners across [location]. Book now and take the heavy lifting out of your cleanup.",
+        "h3": "Fast Delivery, Fair Pricing",
+        "p3": "We drop off where you need it and pick up when you’re done—no delays, no surprises, just clean and simple service for your home project.",
+        "seoContent": "<h2>Residential Dumpster Rental in [location]</h2><p>Rent residential dumpsters in [location] for home projects, renovations, or moving cleanouts. Fast delivery and pickup. Call (203) 568-2409 today.</p>",
+        "slug": "residential-dumpster-rental",
+        "imageUrl": "https://ik.imagekit.io/serviceproviders/ameriwastenj.com/residential-dumpster.jpg?updatedAt=1744193595657"
+      },
+      {
+        "title": "Commercial Dumpster Rental in [location]",
+        "description": "Call us at (203) 568-2409. Reliable dumpsters for offices, retail, and business cleanouts in [location]. Hassle-free and flexible. Schedule your dumpster now!",
+        "h2": "Keep Business Clean and Compliant with Commercial Dumpster Rentals in [location]",
+        "p2": "Running a business means dealing with waste—and we make sure that’s one thing you don’t have to worry about. Our commercial dumpster rentals in [location] are perfect for offices, retail stores, restaurants, and industrial properties. From regular waste pickup to large one-time cleanouts, we tailor dumpster solutions around your business needs. We deliver on time, pick up when you’re ready, and keep your operation compliant with local waste guidelines. Don’t let trash pile up—rent a commercial dumpster in [location] and keep things running smoothly.",
+        "h3": "Waste Solutions That Fit Your Workflow",
+        "p3": "Our team coordinates pickups around your hours to keep your business clean, compliant, and clutter-free every day.",
+        "seoContent": "<h2>Commercial Dumpster Rental in [location]</h2><p>Commercial dumpster rentals in [location] for offices, restaurants, and retail stores. Reliable service. Call (203) 568-2409 to book.</p>",
+        "slug": "commercial-dumpster-rental",
+        "imageUrl": "https://ik.imagekit.io/serviceproviders/ameriwastenj.com/dumpsters-being-full-with-garbage-in-a-city-dumps.jpg?updatedAt=1744193615262"
+      },
+      {
+        "title": "Construction Dumpster Rental in [location]",
+        "description": "Call us at (203) 568-2409. Built for heavy-duty construction waste in [location]. Ideal for job sites and contractors. Rent your construction dumpster today!",
+        "h2": "Built for Heavy Loads: Construction Dumpster Rentals in [location]",
+        "p2": "Construction sites generate serious debris. Our construction dumpster rentals in [location] are built tough for the job. Ideal for contractors, remodelers, and builders, these dumpsters handle drywall, lumber, roofing materials, and more. We understand job site urgency, which is why we prioritize same-day delivery and pickup options in [location]. We’ll help you choose the right size to avoid overloads and keep your project on track. Book today and get the heavy-duty support your construction crew needs, without delays or mess.",
+        "h3": "Built Strong for Every Jobsite",
+        "p3": "Our containers are reinforced for concrete, lumber, and roofing waste—keeping your project clean and OSHA-compliant.",
+        "seoContent": "<h2>Construction Dumpster Rental in [location]</h2><p>Heavy-duty construction dumpsters in [location] for contractors and remodelers. Fast delivery. Call (203) 568-2409 to reserve.</p>",
+        "slug": "construction-dumpster-rental",
+        "imageUrl": "https://ik.imagekit.io/serviceproviders/ameriwastenj.com/heap-on-metal-big-overloaded.jpeg?updatedAt=1744193591101"
+      },
+      {
+        "title": "Roll-Off Dumpster Rental in [location]",
+        "description": "Call us at (203) 568-2409. Versatile and easy-to-load dumpsters for big cleanups in [location]. Great for any project. Reserve your roll-off container today!",
+        "h2": "Roll-Off Dumpster Rentals in [location] for Fast and Flexible Cleanup",
+        "p2": "Our roll-off dumpster rentals in [location] are perfect for large residential, commercial, or construction projects. With open-top access and ground-level loading, these containers make tossing debris quick and painless. Choose from various sizes based on your job’s scope, and enjoy fast, contactless drop-off and pickup. Whether you’re flipping a house, clearing a commercial lot, or managing a multi-day event, our roll-off dumpsters are the flexible waste solution you’ve been searching for. Reserve yours now and simplify the entire cleanup process in [location].",
+        "h3": "Easy Loading, Effortless Cleanup",
+        "p3": "From small remodels to major builds, our roll-offs provide convenience, capacity, and quick turnaround service every time.",
+        "seoContent": "<h2>Roll-Off Dumpster Rental in [location]</h2><p>Roll-off dumpsters in [location] for cleanouts and renovations. Multiple sizes, quick drop-off. Call (203) 568-2409 now.</p>",
+        "slug": "roll-off-dumpster-rental",
+        "imageUrl": "https://ik.imagekit.io/serviceproviders/ameriwastenj.com/two-blue-overfilled-waste-bins.jpeg?updatedAt=1744193605438"
+      },
+      {
+        "title": "Yard Waste Dumpster Rental in [location]",
+        "description": "Call us at (203) 568-2409. Cleaning up the yard? Our yard waste dumpsters in [location] are great for branches, grass, and soil. Book a bin and clear the mess!",
+        "h2": "Tackle Landscaping Waste with Yard Dumpster Rentals in [location]",
+        "p2": "Yard work is hard enough without worrying about where to dump all that debris. Our yard waste dumpster rentals in [location] are designed to handle leaves, branches, sod, and brush with ease. Whether you're redoing your landscaping or cleaning up after a storm, we provide the right dumpster to handle it all. We deliver to your curb or property, and pick it up once you’re done. Skip the trips to the dump and focus on your project. Book your yard waste dumpster in [location] and take back your weekend.",
+        "h3": "Green Waste, Gone Fast",
+        "p3": "Perfect for landscapers and homeowners—dispose of natural debris easily without endless dump runs.",
+        "seoContent": "<h2>Yard Waste Dumpster Rental in [location]</h2><p>Rent yard dumpsters in [location] for grass, branches, and soil. Easy delivery. Call (203) 568-2409 to schedule.</p>",
+        "slug": "yard-waste-dumpster-rental",
+        "imageUrl": "https://ik.imagekit.io/serviceproviders/ameriwastenj.com/loaded-dumpster-near-construction.jpeg?updatedAt=1744193602137"
+      },
+      {
+        "title": "Concrete Dumpster Rental in [location]",
+        "description": "Call us at (203) 568-2409. Get a heavy-duty dumpster for concrete, bricks, and rubble in [location]. No overload worries. Rent your concrete bin today!",
+        "h2": "Heavy Debris? Our Concrete Dumpster Rentals in [location] Have You Covered",
+        "p2": "Heavy materials like concrete, asphalt, bricks, and dirt require special dumpsters—and we’ve got you covered. Our concrete dumpster rentals in [location] are made for tough loads and strict weight guidelines, ensuring safe and legal disposal. Ideal for driveway removal, patio demolition, or construction cleanup, these containers are built to handle the weight. We’ll help you avoid overage fees and coordinate timely drop-off and pickup to match your workflow. Rent a concrete dumpster today and clear out heavy debris without breaking your back—or your budget.",
+        "h3": "Strong Enough for the Heaviest Jobs",
+        "p3": "Our reinforced concrete dumpsters handle dense debris safely, helping you stay efficient and compliant on-site.",
+        "seoContent": "<h2>Concrete Dumpster Rental in [location]</h2><p>Concrete dumpster rentals in [location] for heavy debris and demolition waste. Call (203) 568-2409 for a free quote.</p>",
+        "slug": "concrete-dumpster-rental",
+        "imageUrl": "https://ik.imagekit.io/serviceproviders/ameriwastenj.com/loaded-dumpster-near-a-construction-site.webp?updatedAt=1744193614050"
+      },
+      {
+        "title": "Hazardous Waste Dumpster Rental in [location]",
+        "description": "Call us at (203) 568-2409. Safe and compliant disposal for hazardous waste in [location]. For regulated materials only. Call to discuss your disposal needs today!",
+        "h2": "Safe Disposal Starts Here: Hazardous Waste Dumpster Rentals in [location]",
+        "p2": "Disposing of hazardous materials isn’t just risky—it’s regulated. Our hazardous waste dumpster rentals in [location] are designed for safe, compliant removal of items like paint, chemicals, batteries, and certain electronics. We work closely with local and federal guidelines to ensure your materials are handled responsibly and legally. Ideal for industrial sites, cleanouts, or specialty waste disposal, our team provides guidance every step of the way. Call today to schedule a hazardous waste dumpster in [location] and let us help you handle the tough stuff safely.",
+        "h3": "Safe, Certified, and Responsible",
+        "p3": "Our team follows all EPA and local rules for hazardous waste disposal—keeping your project compliant and the environment protected.",
+        "seoContent": "<h2>Hazardous Waste Dumpster Rental in [location]</h2><p>Hazardous waste dumpsters in [location] for chemicals, paint, and regulated materials. Safe disposal. Call (203) 568-2409 now.</p>",
+        "slug": "hazardous-waste-dumpster-rental",
+        "imageUrl": "https://ik.imagekit.io/serviceproviders/ameriwastenj.com/nursing-assistant-disposing-of-products-in-sanitar.webp?updatedAt=1744193605033"
       }
+    ]
+  }
 }
